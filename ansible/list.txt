@@ -1,0 +1,4 @@
+https://www.ansible.com/overview/how-ansible-works
+https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#prerequisites
+https://tekneed.com/what-is-ansible-introduction-to-ansible-basic-overview/
+https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide
